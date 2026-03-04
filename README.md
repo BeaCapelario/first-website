@@ -26,10 +26,3 @@ Este repositório representa o meu primeiro projeto de site completo. Ele consol
 | **VS Code** | Ambiente de desenvolvimento principal. |
 
 ---
-
-### Como visualizar o projeto
-Este é um projeto estático. Para ver o resultado:
-
-1. Faça o clone do repositório:
-   ```bash
-   git clone [https://github.com/BeaCapelario/first-website.git](https://github.com/BeaCapelario/first-website.git)
